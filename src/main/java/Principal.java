@@ -15,7 +15,7 @@ Scanner leitor = new
         int i = 0;
         
         
-        while (i <= numero) {
+        while (i < numero) {
             System.out.println(frase);
             i++;
         }
